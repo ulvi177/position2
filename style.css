@@ -1,13 +1,16 @@
 body {
-  font-family: 'Dosis', sans-serif;
+  font-family: "Dosis", sans-serif;
   font-weight: 500;
 }
 
 a {
   color: orange;
 }
-
 a:hover {
   color: black;
 }
-/*# sourceMappingURL=style.css.map */
+
+#turbo .box {
+  border: 20px;
+  width: 200px;
+}/*# sourceMappingURL=style.css.map */
